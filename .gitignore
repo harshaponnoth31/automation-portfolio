@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest cache
+.cache/
+.pytest_cache/
+
+# Environment variables
+.env
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Virtual environments
+venv/
+.env/
+env/
+
+# Robot logs
+*.log
+*.xml
+*.txt
+
+# Reports
+allure-results/
+allure-report/
+
+# OS files
+.DS_Store
+Thumbs.db
